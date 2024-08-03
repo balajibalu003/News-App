@@ -50,9 +50,8 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
 
 ### Contributing
 
-   - Contributions are always welcome!
-
-   - See [CONTRIBUTING.md](https://github.com/Raj-m01/News-App/blob/master/CONTRIBUTING.md) for ways to get started.
+  
+   .
 
   
 ### For hackoberfest:
@@ -64,6 +63,4 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
 
 ### 📝 License 
 
-Copyright (c) 2022 Raj Manjrekar
-
-This project is [MIT](https://github.com/Raj-m01/News-App/blob/master/License) licensed.
+Copyright (c) 2024 balaji
